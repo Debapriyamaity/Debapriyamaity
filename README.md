@@ -10,7 +10,7 @@ CSE Student from Haldia Institute of Technology. I am passionate about coding, e
 ## 🛠️ Skills & Technologies
 - **Languages:**  Python, SQL
 - **Databases:** MySQL, Oracle, MariaDB
-- **Concepts:**  Machine Learning 
+- **Concepts:**  Data Science with AI/ML
 - **Tools:** Git & GitHub, XAMPP, VS Code, Google Colab
 
 ## 📬 Connect with Me
