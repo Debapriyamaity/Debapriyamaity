@@ -6,8 +6,6 @@ CSE Student from Haldia Institute of Technology. I am passionate about coding, e
 - 📚 Currently studying COMPUTER SCIENCE AND ENGINEERIMG.
 - 💻 Actively learning and implementing programming logic.
 - 🎯 Looking to collaborate on open-source projects.
-
-## 🛠️ Skills & Technologies
 ## 🛠️ Skills & Technologies
 
 ### 💻 Languages
@@ -29,9 +27,13 @@ CSE Student from Haldia Institute of Technology. I am passionate about coding, e
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-150458?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📬 Connect with Me
+
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debapriya-maity-584299331)
-- GitHub: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Debapriyamaity)
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/debapriya-maity-584299331">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+</a>
 
+<a href="https://github.com/Debapriyamaity">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+</a>
