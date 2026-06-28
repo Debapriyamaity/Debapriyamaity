@@ -35,5 +35,5 @@ CSE Student from Haldia Institute of Technology. I am passionate about coding, e
 </a>
 
 <a href="https://github.com/Debapriyamaity">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  <img src="https://img.icons8.com/ios-filled/50/github.png" width="40"/>
 </a>
